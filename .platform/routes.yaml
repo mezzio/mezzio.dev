@@ -6,7 +6,3 @@
       enabled: true
       include_subdomains: true
       preload: true
-
-"https://www.{default}/":
-  type: redirect
-  to: 'https://{default}/'
