@@ -36,7 +36,7 @@ web:
     '/':
       root: 'public'
       index:
-        - index.html
+        - index.php
       expires: -1
       scripts: true
       allow: false
